@@ -1,0 +1,6 @@
+flask
+flask_sqlalchemy
+pyjwt
+bcrypt
+python-dotenv
+flask-limiter
